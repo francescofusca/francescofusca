@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francescofusca
 - 👀 I’m interested in CyberSec ;)
-- 🌱 I’m currently learning Computer Sciences!
+- 🌱 I’m currently learning Computer engineering!
 - 📫 @FF9 on Instagram
 
 <!---
