@@ -6,4 +6,4 @@ I'm Francesco, a Computer Engineering student from Cosenza, Italy.
 
 Let's connect!
 <br>
-<br>[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/ff9)
+<br>[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/ff9)
