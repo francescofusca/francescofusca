@@ -1,4 +1,17 @@
-**Hell nah 💀**
+# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+
+<div align="center">
+  
+![Your LinkedIn Banner](https://your-banner-url-here.png)
+
+</div>
+
+I'm Francesco, a Computer Engineering student from Cosenza, Italy.  
+I'm primarily interested in **full-stack development**, **cybersecurity**, and **AI**.  
+I aspire to become a software engineer and contribute to innovative projects!
+
+<div align="center">
+
 <!-- Pac-Man Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba47-4167-9ba8-fbcc3d5af4ca.gif" width="500">
 
