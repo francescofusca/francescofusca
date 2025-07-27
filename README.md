@@ -1,5 +1,5 @@
 <div align="center">
-AI is getting stronger bro 💀
+💀 AI is getting stronger bro 💀
 
 <div align="center">
 
