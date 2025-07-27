@@ -1,6 +1,4 @@
 **Hell nah 💀**
- 
-
 <!-- Pac-Man Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba47-4167-9ba8-fbcc3d5af4ca.gif" width="500">
 
