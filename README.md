@@ -1,4 +1,5 @@
-### AI is getting stronger bro 💀
+<div align="center">
+AI is getting stronger bro 💀
 
 <div align="center">
 
