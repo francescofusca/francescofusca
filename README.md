@@ -1,14 +1,4 @@
-# Hi there! 
-
-<div align="center">
-  
-![Your LinkedIn Banner](https://your-banner-url-here.png)
-
-</div>
-
-I'm Francesco, a Computer Engineering student from Cosenza, Italy.  
-I'm primarily interested in **full-stack development**, **cybersecurity**, and **AI**.  
-I aspire to become a software engineer and contribute to innovative projects!
+### Hell nah! 💀
 
 <div align="center">
 
